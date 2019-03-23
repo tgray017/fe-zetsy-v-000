@@ -55,6 +55,7 @@ footer {
   border-width: 5px;
   border-style: solid;
   border-color: rgb(153, 173, 166);
+  transition: border-color 0.5s ease;
 }
 
 #press img {
