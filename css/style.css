@@ -61,6 +61,7 @@ footer {
   border-width: 5px;
   border-style: solid;
   border-color: rgb(204, 204, 204);
+  transition: border-color 1s ease;
 }
 
 header a:hover {
@@ -68,7 +69,6 @@ header a:hover {
 }
 
 #press img:hover {
-  transition: border-color 1s ease;
   border-color: rgb(112, 127, 122);
 }
 
