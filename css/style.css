@@ -61,7 +61,7 @@ footer {
   border-width: 5px;
   border-style: solid;
   border-color: rgb(204, 204, 204);
-  transition: border-color 1s ease;
+  transition: border-color 0.5s ease;
 }
 
 header a:hover {
