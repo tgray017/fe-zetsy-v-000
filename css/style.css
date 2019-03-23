@@ -70,7 +70,7 @@ header a:hover {
 #press img:hover {
   border-color: rgb(112, 127, 122);
   transition: border-color 1s ease;
-  border-color: rbg(228, 105, 100);
+  border-color: rgb(228, 105, 100);
 }
 
 
